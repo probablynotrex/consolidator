@@ -1,0 +1,5 @@
+{
+  "name": "Excel Consolidator",
+  "description": "Secure, client-side inventory aggregator. Process Excel and CSV files instantly in your browser without uploading data to any server.",
+  "requestFramePermissions": []
+}
